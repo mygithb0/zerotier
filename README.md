@@ -65,3 +65,18 @@ C:\ProgramData\Microsoft\Windows\「开始」菜单\程序\启动
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
 ```
 
+# obsidian文件夹在C盘
+```
+C:\ProgramData\10logseq-win11-20231116
+```
+
+# obsidian文件夹在z盘
+```
+Z:\
+```
+# 电脑之间传文件的同步文件夹在V盘
+```
+V:\
+```
+
+
