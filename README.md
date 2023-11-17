@@ -43,3 +43,25 @@ iphone esim
 搜索框 本地组策略编辑器》windows设置》安全设置》本地策略》安全选项》右边找到:账户：使用空白密码的本地账户只允许进行控制台登录的选项，双击，在弹出的窗口中，上方点选上以禁用然后依次点击确定
 
 
+# 开机自启动zerotier
+
+把zerotier的快捷方式从这里复制
+```
+C:\ProgramData\Microsoft\Windows\「开始」菜单\程序
+```
+
+或者是英文的地址
+```
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\
+```
+
+
+复制进这里：
+```
+C:\ProgramData\Microsoft\Windows\「开始」菜单\程序\启动
+```
+或者是英文的地址这个里：
+```
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+```
+
