@@ -15,6 +15,7 @@
 
 
 [设置成从命令行手动进入linux桌面](设置成从命令行手动进入linux桌面.md)
+暂时不用
 
 [安装pve桌面KDE-Plasma](安装pve桌面KDE-Plasma.md)
 
