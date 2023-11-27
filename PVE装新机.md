@@ -14,7 +14,7 @@
 [PVE安装zerotier实现内网穿透](PVE安装zerotier实现内网穿透.md)
 
 
-[设置成从命令行手动进入linux桌面](设置成从命令行手动进入linux桌面)
+[设置成从命令行手动进入linux桌面](设置成从命令行手动进入linux桌面.md)
 
 [安装pve桌面KDE-Plasma](安装pve桌面KDE-Plasma.md)
 
@@ -32,9 +32,9 @@
 
 [pve安装obsidian](pve安装obsidian.md)
 
-[pve安装FreeFileSync](pve安装FreeFileSync)
+[pve安装FreeFileSync](pve安装FreeFileSync.md)
 
-[pve安装samba](pve安装samba)
+[pve安装samba](pve安装samba.md)
 
 [pve安装todesk](pve安装todesk.md)
 
@@ -45,7 +45,7 @@
 
 [PVE内部虚拟机里创建的ubungtu容器用finalshell连不上并且更新软件源时连不上](PVE内部虚拟机里创建的ubungtu容器用finalshell连不上并且更新软件源时连不上.md)
 
-[pve安装windows](pve安装windows)
+[pve安装windows](pve安装windows.md)
 
 
 [pve安装debian](pve安装debian.md)
