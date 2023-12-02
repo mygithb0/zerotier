@@ -52,3 +52,7 @@
 [pve安装debian](pve安装debian.md)
 
 [win10有密码但是开机不需要输的方法只有注销的时候才需要输入](win10有密码但是开机不需要输的方法只有注销的时候才需要输入.md)
+
+[PVE安装rsync](PVE安装rsync.md)
+
+[rsync同步linux和win10的文件](rsync同步linux和win10的文件.md)
