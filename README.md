@@ -3,6 +3,16 @@
 Network ID
 e3918db4837fb16b
 
+
+ubungtu用来同步obsidian的
+```
+\\172.25.46.223
+Alist账号 admin
+Alist密码 123456
+同步webdav网址   http://172.25.46.223:5244/dav
+主页网址         http://172.25.46.223:5244/@manage/users
+```
+
 小笔记本 用户名字 1
 ```
 \\172.25.55.228
