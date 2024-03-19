@@ -11,6 +11,8 @@ Alist账号 admin
 Alist密码 123456
 同步webdav网址   http://172.25.46.223:5244/dav
 主页网址         http://172.25.46.223:5244/@manage/users
+开机账号  a
+开机密码  a
 ```
 
 小笔记本 用户名字 1
