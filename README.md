@@ -3,22 +3,9 @@
 Network ID
 e3918db4837fb16b
 
-openWRT网页
-```
-http://172.25.4.194/
-root
-dxdll12345
-```
-Alist网盘的webDAV
-http://172.25.4.194:8888
-```
-dxdll10001
-dxdll12345
-```
 
-http://172.25.245.132:5244
-admin
-123456
+
+
 
 iStoreOS的openWRT用来同步obsidian的
 ```
@@ -35,6 +22,24 @@ admin
 123456
 
 ```
+
+iStoreOS2的openWRT用来同步obsidian的
+```
+iStoreOS的openWRT设置网页
+http://172.25.126.243/
+
+root
+a
+
+Alist网盘的webDAV
+
+http://172.25.126.243:5244
+用户名：admin 密码：a
+
+```
+
+
+
 
 
 
