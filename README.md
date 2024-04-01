@@ -35,7 +35,7 @@ Alist网盘的webDAV
 
 http://172.25.126.243:5244
 用户名：admin 密码：a
-
+/etc/alist
 ```
 
 
