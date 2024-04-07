@@ -15,6 +15,7 @@ alist端口  5244
 alist账号  admin
 alist密码  a
 code server         端口8088
+code server密码    123456
 ```
 
 
@@ -27,9 +28,10 @@ code server         端口8088
 
 alist端口  5244
 alist账号  admin
-alist密码  123456
+alist密码  a
 code server运行代码  端口8088
 /root/code-server-4.22.1-linux-amd64/bin/code-server
+code server密码   无
 ```
 
 
