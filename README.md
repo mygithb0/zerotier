@@ -5,7 +5,7 @@ e3918db4837fb16b
 
 
 
-新版istoreOS用alist的
+新版istoreOS1用alist的
 ```
 172.25.124.95
 路由器账号  root
