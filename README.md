@@ -5,9 +5,31 @@ e3918db4837fb16b
 
 
 
+新版istoreOS用alist的
+```
+172.25.124.95
+路由器账号  root
+路由器密码  a
 
+alist端口  5244
+alist账号  admin
+alist密码  a
+code server         端口8088
 ```
 
+
+
+无桌面版PVE用alist的
+```
+172.25.211.25
+路由器账号  root
+路由器密码  a
+
+alist端口  5244
+alist账号  admin
+alist密码  123456
+code server运行代码  端口8088
+/root/code-server-4.22.1-linux-amd64/bin/code-server
 ```
 
 
