@@ -25,6 +25,7 @@ code server密码    123456
 172.25.211.25
 路由器账号  root
 路由器密码  a
+          123456
 
 alist端口  5244
 alist账号  admin
@@ -36,7 +37,13 @@ code server密码   无
 
 
 
-
+pve4
+```
+172.25.208.44
+pve账号  root
+pve密码  123456
+          
+```
 
 
 
